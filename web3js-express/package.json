@@ -1,0 +1,19 @@
+{
+  "name": "web3js",
+  "version": "1.0.0",
+  "description": "Gettin Started With E-Money",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "ridiculous",
+    "money",
+    "fun",
+    "cryptography",
+    "abstract-algebra"
+  ],
+  "author": "Ryan Andrew Moore",
+  "license": "ISC"
+}

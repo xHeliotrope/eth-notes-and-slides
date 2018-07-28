@@ -1,0 +1,4 @@
+* MetaMask
+* CLI-Wallet (geth?)
+* Exchange-as-a-Wallet (bad idea or very bad idea?)
+

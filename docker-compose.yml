@@ -1,0 +1,20 @@
+version: "2"
+services:
+    web1:
+        image: your_image
+        container_name: web1
+        ports:
+            - 81:80
+
+services:
+    nginx:
+        build:
+          context: ./web3js
+          dockerfile: Dockerfile-alternate
+        ports:
+            - 80:80
+            - 443:443
+        links:
+            - web1
+            - web2
+  
